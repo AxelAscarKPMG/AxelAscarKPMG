@@ -58,9 +58,4 @@ Este perfil funciona como mi portfolio profesional mientras continúo desarrolla
 </div>
 
 
-
----
-
-<div align="center">
-  <sub>Diseño optimizado para modo oscuro con paleta azul profesional.</sub>
 </div>
