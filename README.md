@@ -15,7 +15,8 @@ Este perfil funciona como mi portfolio profesional mientras continúo desarrolla
 **aascargortaleiva@kpmg.com.ar**
 
 🔗 **LinkedIn:**  
-[Linkedin](https://www.linkedin.com/in/axel-gabriel-ascargorta-leiva/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/axel-gabriel-ascargorta-leiva/)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -25,7 +26,7 @@ Este perfil funciona como mi portfolio profesional mientras continúo desarrolla
 
 ### 🔒 Ciberseguridad
 <div>
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1B2A?style=flat&logo=hackthebox&logoe
+  !<img src="https://img.shields.io/badge/Cybersecurity-0D1B2A?style=flat&logo=hackthebox&logoe
   <img src="https://img.shields.io/badge/Vulnerability%20Analysis-003366?style=flat&logo=sonarqube&logoColor=mg src="https://img.shields.io/badge/Information%20Security-001F3at&logo=databricks&logoColor=white
 </div>
 
@@ -51,16 +52,13 @@ Este perfil funciona como mi portfolio profesional mientras continúo desarrolla
 ## 🚀 Proyectos Destacados
 *(Se agregarán próximamente)*
 
-- Proyecto 1  
-- Proyecto 2  
-- Proyecto 3  
-
 ---
 
 ## 📊 GitHub Stats
+*
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?SERNAME&show_icons=true&theme=tokyonight&bg_color=0D1B2A
+!img src="https://github-readme-stats.vercel.app/api?SERNAME&show_icons=true&theme=tokyonight&bg_color=0D1B2A
 
 <img src="https://github-readme-stats.veri/top-langs/?username=AxelAscarKPMG&layout=compact&theme=tokyonight&bg_color=0D1B2A
 
