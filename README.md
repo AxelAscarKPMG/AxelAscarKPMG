@@ -49,12 +49,4 @@ Este perfil funciona como mi portfolio profesional mientras continúo desarrolla
 ---
 
 ## 📊 GitHub Stats
-*
-<div align="center">
-
-
-
-</div>
-
-
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelAscarKPMG)](https://github.com/anuraghazra/github-readme-stats)
