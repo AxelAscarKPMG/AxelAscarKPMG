@@ -1,6 +1,5 @@
-
-# 🤖 Axel Ascargorta
-
+# 👋 Hola, soy Axel Ascargorta Leiva
+**`Consultor Jr. en Ciberseguridad`**
 ---
 
 ## 👤 Sobre mí
@@ -46,13 +45,6 @@ Este perfil funciona como mi portfolio profesional mientras continúo desarrolla
 </div>
 
 ### 🧰 Herramientas
-<div>
-  ![img src="https://img.shields.io/badge/Git-0D111at&logo=git&logoColor=white
-  <img src="https://img.shields.io/badge/GitHub-002244?style=flatub&logoColor=white
-  <img src="https://img.shields.io/badge/VS%20Code-1F4F8A?style=flat&logodiocode&logoColor=white
-  <img src="https://img.shields.io/badgex-003366?style=flat&logo=virtualbox&logoColor=white
-  https://img.shields.io/badge/VMware-0D2A4A?style=flat&logo=vmware&logoColor=white
-</div>
 
 ---
 
