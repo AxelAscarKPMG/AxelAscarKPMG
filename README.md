@@ -1,4 +1,4 @@
-# 👋 Hola, soy Axel Ascargorta Leiva
+# 👋 Hola, soy Axel Gabriel Ascargorta Leiva
 **`Consultor Jr. en Ciberseguridad`**
 ---
 
